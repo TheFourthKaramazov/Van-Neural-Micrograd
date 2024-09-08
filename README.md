@@ -7,5 +7,7 @@ This is a minimal implementation of a neural network library in Python, based on
 ### Features:
 
 Define variables and operations to build computational graphs
+
 Perform automatic differentiation using backpropagation
+
 Train a neural network to learn a simple function
